@@ -1,0 +1,1 @@
+create dir from path file  which setting in path.txt and copy this file to new path

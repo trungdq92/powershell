@@ -1,0 +1,7 @@
+D:\ucfweburu\rakuuru_web\themes\css\custom.css
+D:\ucfweburu\rakuuru_web\search\contents\product_list_contents.aspx
+D:\ucfweburu\rakuuru_web\search\product_detail.aspx
+
+D:\ucfweburu\rakuuru\themes\css\custom.css
+D:\ucfweburu\rakuuru\search\contents\product_list_contents.aspx
+D:\ucfweburu\rakuuru\search\detail.aspx
